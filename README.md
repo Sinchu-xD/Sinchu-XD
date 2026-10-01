@@ -78,9 +78,9 @@
 | :--- | :--- | :--- |
 | 📦 [**AyTube**](https://github.com/Sinchu-xD/AyTube) | Ultra-fast YouTube stream extractor & downloader library on PyPI | `Python` `PyPI` `AsyncIO` |
 | 🎵 [**JioSaavn**](https://github.com/Sinchu-xD/JioSaavn) | High-fidelity music streaming and search API wrapper | `Python` `API` `Audio` |
-| 📞 [**AyCalls**](https://github.com/Sinchu-xD/AyCalls) | High-performance Telegram group voice chat streaming client | `Python` `PyTgCalls` `WebRTC` |
-| 💳 [**TgSell**](https://github.com/Sinchu-xD/TgSell) | Telegram automated merchant, product shop & payment processing bot | `Python` `Pyrogram` `MongoDB` |
-| 🎙️ [**LyricsBot**](https://github.com/Sinchu-xD/LyricsBot) | Real-time synchronized lyrics fetcher for Telegram | `Python` `Genius API` |
+| 📞 [**AyCalls**](https://github.com/Sinchu-xD/AyCalls) | High-performance Telegram group voice chat streaming client (`aytgcalls`) | `Python` `PyTgCalls` `WebRTC` |
+| 🌐 [**Saavn-docs**](https://github.com/Sinchu-xD/Saavn-docs) | Interactive API documentation & developer portal for SaavnAPI | `HTML5` `JavaScript` `CSS3` |
+| ⚡ [**pytgcalls**](https://github.com/Sinchu-xD/pytgcalls) | Async client API for Telegram Calls & WebRTC streaming | `Python` `AsyncIO` `C++` |
 
 ---
 
