@@ -3,16 +3,21 @@
 # ⚡ ABHISHEK THAKUR (ABHI SINGH) ⚡
 
 <a href="https://github.com/Sinchu-xD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Python+Developer+%26+Bot+Architect;Creator+of+AyTube+%F0%9F%93%A6;Telegram+Voice+%26+WebRTC+Specialist;Building+High-Speed+APIs+%E2%9A%A1;Open+Source+Creator+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Creator+of+AyTube+%F0%9F%93%A6;Creator+of+SaavnAPI+%F0%9F%8E%B5;Creator+of+aytgcalls+%F0%9F%93%9E;Python+Developer+%26+Bot+Architect+%E2%9A%A1;Building+High-Speed+APIs+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
+  <a href="https://pypi.org/project/aytube/"><img src="https://img.shields.io/badge/PyPI-AyTube-00F5FF?style=for-the-badge&logo=pypi&logoColor=black" alt="PyPI AyTube" /></a>
+  <a href="https://pypi.org/project/SaavnAPI/"><img src="https://img.shields.io/badge/PyPI-SaavnAPI-FF10F0?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI SaavnAPI" /></a>
+  <a href="https://github.com/Sinchu-xD/AyCalls"><img src="https://img.shields.io/badge/Lib-aytgcalls-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aytgcalls" /></a>
+</p>
+
+<p align="center">
   <a href="https://t.me/Itz_Your_4Bhi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://t.me/ProNovaUpdates"><img src="https://img.shields.io/badge/Channel-ProNova-FF10F0?style=for-the-badge&logo=telegram&logoColor=white" alt="ProNova" /></a>
   <a href="mailto:abhiyanshicreation@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://pypi.org/project/aytube/"><img src="https://img.shields.io/badge/PyPI-AyTube-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 </p>
 
 <p align="center">
@@ -32,15 +37,16 @@ class Developer:
         self.location = "Jaipur, Rajasthan, India 🇮🇳"
         self.role = "Python Developer & Telegram Bot Architect"
         self.focus = ["Real-Time Streaming", "WebRTC", "APIs", "Open Source"]
-        self.packages = ["aytube", "SaavnAPI", "aytgcalls"]
+        self.main_packages = ["AyTube", "SaavnAPI", "aytgcalls"]
         self.telegram = "@Itz_Your_4Bhi"
 ```
 
 - 📍 Based in **Jaipur, Rajasthan, India**
 - 💻 Passionate software developer creating high-performance **Python packages** and **Telegram bots**
-- 📦 Author of published libraries on PyPI:
+- 📦 Author & Maintainer of core libraries:
   - [**AyTube**](https://pypi.org/project/aytube/) — Lightning-fast YouTube stream extractor & downloader
   - [**SaavnAPI**](https://pypi.org/project/SaavnAPI/) — High-speed async JioSaavn music streaming and search API wrapper
+  - [**aytgcalls**](https://github.com/Sinchu-xD/AyCalls) — Low-latency group voice chat WebRTC streaming engine
 - 🎙️ Specialized in **Telegram Voice Chats (VC)**, **WebRTC**, and **Audio/Video Streaming Pipelines**
 - ⚡ Experienced in **Asynchronous Python (`asyncio`)**, high-throughput APIs, and automation
 - 📫 Contact: Telegram [@Itz_Your_4Bhi](https://t.me/Itz_Your_4Bhi) • Channel [@ProNovaUpdates](https://t.me/ProNovaUpdates)
@@ -81,7 +87,7 @@ class Developer:
 
 ---
 
-### 🌟 Featured Open Source Projects
+### 🌟 Main Projects
 
 #### 📦 [AyTube](https://github.com/Sinchu-xD/AyTube)
 > **Ultra-fast, zero-bloat YouTube streaming & metadata extraction library for Python.**
@@ -92,25 +98,21 @@ class Developer:
 
 ---
 
-#### 🎵 [JioSaavn (SaavnAPI)](https://github.com/Sinchu-xD/JioSaavn)
+#### 🎵 [SaavnAPI (JioSaavn)](https://github.com/Sinchu-xD/JioSaavn)
 > **High-speed asynchronous JioSaavn music streaming and search API wrapper.**
 - 🎧 320kbps MP3 downloading, ID3 metadata tagging & synchronized lyrics
-- ⚡ Built with `asyncio`, `aiohttp`, with GraphQL & WebSocket support
+- ⚡ Built with `asyncio`, `aiohttp`, with GraphQL & WebSocket dev servers
 - 🛠️ `pip install SaavnAPI`
-- [![PyPI](https://img.shields.io/pypi/v/SaavnAPI?color=orange&label=PyPI%20SaavnAPI)](https://pypi.org/project/SaavnAPI/) [![Docs](https://img.shields.io/badge/Docs-SaavnAPI-blueviolet)](https://github.com/Sinchu-xD/Saavn-docs)
+- [![PyPI](https://img.shields.io/pypi/v/SaavnAPI?color=orange&label=PyPI%20SaavnAPI)](https://pypi.org/project/SaavnAPI/)
 
 ---
 
-#### 📞 [AyCalls](https://github.com/Sinchu-xD/AyCalls)
+#### 📞 [aytgcalls (AyCalls)](https://github.com/Sinchu-xD/AyCalls)
 > **High-performance Telegram group voice chat audio streaming client.**
-- 🎙️ Powered by Pyrogram + custom WebRTC (`aiortc`) & FFmpeg
+- 🎙️ Powered by Kurigram (Pyrogram) + custom WebRTC (`aiortc`) & FFmpeg
 - 🔊 Seamless voice chat streaming with ultra-low latency
-
----
-
-#### ⚡ [pytgcalls](https://github.com/Sinchu-xD/pytgcalls)
-> **Async client API for Telegram Calls & WebRTC streaming engine.**
-- 📡 Core engine for real-time Telegram group calls and broadcasts
+- 🛠️ `pip install aytgcalls`
+- [![GitHub](https://img.shields.io/badge/GitHub-AyCalls-0088CC?logo=github)](https://github.com/Sinchu-xD/AyCalls)
 
 ---
 
