@@ -3,13 +3,14 @@
 # ⚡ ABHISHEK THAKUR (ABHI SINGH) ⚡
 
 <a href="https://github.com/Sinchu-xD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Creator+of+AyTube+%F0%9F%93%A6;Creator+of+SaavnAPI+%F0%9F%8E%B5;Creator+of+aytgcalls+%F0%9F%93%9E;Python+Developer+%26+Bot+Architect+%E2%9A%A1;Building+High-Speed+APIs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Creator+of+AyTube+%F0%9F%93%A6;Creator+of+SaavnAPI+%F0%9F%8E%B5;Creator+of+aytgcalls+%F0%9F%93%9E;cloudvideoplayer.online+%F0%9F%8C%90;Python+Developer+%26+Bot+Architect+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
-  <a href="https://pypi.org/project/aytube/"><img src="https://img.shields.io/badge/PyPI-AyTube-00F5FF?style=for-the-badge&logo=pypi&logoColor=black" alt="PyPI AyTube" /></a>
+  <a href="https://cloudvideoplayer.online/"><img src="https://img.shields.io/badge/Website-cloudvideoplayer.online-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="https://pypi.org/project/aytube/"><img src="https://img.shields.io/badge/PyPI-AyTube-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI AyTube" /></a>
   <a href="https://pypi.org/project/SaavnAPI/"><img src="https://img.shields.io/badge/PyPI-SaavnAPI-FF10F0?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI SaavnAPI" /></a>
   <a href="https://github.com/Sinchu-xD/AyCalls"><img src="https://img.shields.io/badge/Lib-aytgcalls-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aytgcalls" /></a>
 </p>
@@ -35,13 +36,15 @@ class Developer:
     def __init__(self):
         self.name = "Abhishek Thakur (Abhi Singh)"
         self.location = "Jaipur, Rajasthan, India 🇮🇳"
-        self.role = "Python Developer & Telegram Bot Architect"
+        self.role = "Python Developer & Streaming Systems Architect"
+        self.website = "https://cloudvideoplayer.online"
         self.focus = ["Real-Time Streaming", "WebRTC", "APIs", "Open Source"]
-        self.main_packages = ["AyTube", "SaavnAPI", "aytgcalls"]
+        self.main_projects = ["AyTube", "SaavnAPI", "aytgcalls", "OmniStream"]
         self.telegram = "@Itz_Your_4Bhi"
 ```
 
 - 📍 Based in **Jaipur, Rajasthan, India**
+- 🌐 Live Web App: [**cloudvideoplayer.online**](https://cloudvideoplayer.online/) — Fast Online Cloud Video Player & 4K Stream Workstation
 - 💻 Passionate software developer creating high-performance **Python packages** and **Telegram bots**
 - 📦 Author & Maintainer of core libraries:
   - [**AyTube**](https://pypi.org/project/aytube/) — Lightning-fast YouTube stream extractor & downloader
@@ -87,7 +90,15 @@ class Developer:
 
 ---
 
-### 🌟 Main Projects
+### 🌟 Main Projects & Platforms
+
+#### 🌐 [OmniStream (cloudvideoplayer.online)](https://cloudvideoplayer.online/)
+> **Fast Online Cloud Video Player & 4K Stream Workstation.**
+- 🎬 Zero-buffering online streaming player supporting HLS, M3U8, MP4, and direct cloud video links
+- ⚡ Ultra-fast stream inspector, high-resolution 4K playback, and cinema ad-shield protection
+- 🔗 Live Web Platform: [cloudvideoplayer.online](https://cloudvideoplayer.online/)
+
+---
 
 #### 📦 [AyTube](https://github.com/Sinchu-xD/AyTube)
 > **Ultra-fast, zero-bloat YouTube streaming & metadata extraction library for Python.**
