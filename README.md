@@ -12,12 +12,7 @@
   <a href="https://cloudvideoplayer.online/"><img src="https://img.shields.io/badge/Website-cloudvideoplayer.online-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
   <a href="https://pypi.org/project/aytube/"><img src="https://img.shields.io/badge/PyPI-AyTube-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI AyTube" /></a>
   <a href="https://pypi.org/project/SaavnAPI/"><img src="https://img.shields.io/badge/PyPI-SaavnAPI-FF10F0?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI SaavnAPI" /></a>
-  <a href="https://github.com/Sinchu-xD/AyCalls"><img src="https://img.shields.io/badge/Lib-aytgcalls-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aytgcalls" /></a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/Itz_Your_4Bhi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/ProNovaUpdates"><img src="https://img.shields.io/badge/Channel-ProNova-FF10F0?style=for-the-badge&logo=telegram&logoColor=white" alt="ProNova" /></a>
+  <a href="https://github.com/Sinchu-xD/AyCalls"><img src="https://img.shields.io/badge/Lib-aytgcalls-0088CC?style=for-the-badge&logo=python&logoColor=white" alt="aytgcalls" /></a>
   <a href="mailto:abhiyanshicreation@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
@@ -40,19 +35,18 @@ class Developer:
         self.website = "https://cloudvideoplayer.online"
         self.focus = ["Real-Time Streaming", "WebRTC", "APIs", "Open Source"]
         self.main_projects = ["AyTube", "SaavnAPI", "aytgcalls", "OmniStream"]
-        self.telegram = "@Itz_Your_4Bhi"
 ```
 
 - 📍 Based in **Jaipur, Rajasthan, India**
 - 🌐 Live Web App: [**cloudvideoplayer.online**](https://cloudvideoplayer.online/) — Fast Online Cloud Video Player & 4K Stream Workstation
-- 💻 Passionate software developer creating high-performance **Python packages** and **Telegram bots**
+- 💻 Passionate software developer creating high-performance **Python packages** and **automation tools**
 - 📦 Author & Maintainer of core libraries:
   - [**AyTube**](https://pypi.org/project/aytube/) — Lightning-fast YouTube stream extractor & downloader
   - [**SaavnAPI**](https://pypi.org/project/SaavnAPI/) — High-speed async JioSaavn music streaming and search API wrapper
   - [**aytgcalls**](https://github.com/Sinchu-xD/AyCalls) — Low-latency group voice chat WebRTC streaming engine
-- 🎙️ Specialized in **Telegram Voice Chats (VC)**, **WebRTC**, and **Audio/Video Streaming Pipelines**
+- 🎙️ Specialized in **Audio/Video Streaming Pipelines**, **WebRTC**, and media protocol reverse engineering
 - ⚡ Experienced in **Asynchronous Python (`asyncio`)**, high-throughput APIs, and automation
-- 📫 Contact: Telegram [@Itz_Your_4Bhi](https://t.me/Itz_Your_4Bhi) • Channel [@ProNovaUpdates](https://t.me/ProNovaUpdates)
+- 📫 Contact: [abhiyanshicreation@gmail.com](mailto:abhiyanshicreation@gmail.com)
 
 ---
 
@@ -68,7 +62,7 @@ class Developer:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### 🎙️ Telegram, Streaming & Media
+### 🎙️ Streaming, WebRTC & Media
 
 <p align="left">
   <img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
